@@ -7,8 +7,9 @@ public class EclipsRepo {
 		int a = 1;
 		int b = 2;
 		int c = a + b;
+		int d=b-a;
 		System.out.println("sum is :" + c);
-
+		System.out.println("sub is :" + d);
 	}
 
 }
