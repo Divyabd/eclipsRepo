@@ -11,7 +11,8 @@ public class EclipsRepo {
 		System.out.println("sum is :" + c);
 		System.out.println("sub is :" + d);
 	
-		
+		System.out.println("sum is :" + c);
+		System.out.println("sub is :" + d);
 		
 	}
 
