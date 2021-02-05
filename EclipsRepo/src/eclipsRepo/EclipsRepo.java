@@ -10,6 +10,9 @@ public class EclipsRepo {
 		int d=b-a;
 		System.out.println("sum is :" + c);
 		System.out.println("sub is :" + d);
+	
+		
+		
 	}
 
 }
